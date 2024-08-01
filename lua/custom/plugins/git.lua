@@ -1,7 +1,5 @@
 return {
   'tpope/vim-fugitive',
-<<<<<<< Updated upstream
-=======
   'pwntester/octo.nvim',
   requires = {
     'nvim-lua/plenary.nvim',
@@ -14,5 +12,4 @@ return {
       mappings = {},
     }
   end,
->>>>>>> Stashed changes
 }
